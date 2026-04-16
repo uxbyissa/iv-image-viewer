@@ -6,7 +6,7 @@
 
 A lightweight, fast image viewer built for designers. Open PSD, AI, and EPS files instantly — no Adobe software needed.
 
-![IV Image Viewer Screenshot](screenshots/main.png)
+![IV Image Viewer Screenshot](screenshots/viewwithlogo.png)
 
 ## ✨ Features
 
@@ -46,6 +46,13 @@ A lightweight, fast image viewer built for designers. Open PSD, AI, and EPS file
 | **RAM** | 4 GB minimum |
 | **Storage** | 200 MB |
 | **Runtime** | .NET 10 Desktop Runtime (included in installer) |
+
+## 📸 Screenshots
+
+| Light Mode | Dark Mode |
+|---|---|
+| ![Light](screenshots/lightview.png) | ![Dark](screenshots/darkview.png) |
+| ![Open](screenshots/viewwithlogo.png) | ![Dark Open](screenshots/dark_open.png) |
 
 ## 📥 Download
 
