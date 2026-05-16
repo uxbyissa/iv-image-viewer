@@ -1,6 +1,6 @@
 # IV - Image Viewer
 
-![Version](https://img.shields.io/badge/version-1.0.0_Beta-blue)
+![Version](https://img.shields.io/badge/version-2.1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows_10%2F11-0078D4)
 ![License](https://img.shields.io/badge/license-Freeware-green)
 
@@ -56,7 +56,7 @@ A lightweight, fast image viewer built for designers. Open PSD, AI, and EPS file
 
 ## 📥 Download
 
-**[Download IV-ImageViewer-Setup-1.0.0.exe](https://uxbyissa.com/iv)**
+**[Download IV-ImageViewer-Setup-2.1.0.exe](https://github.com/uxbyissa/iv-image-viewer/releases/download/v2.1.0/IV-ImageViewer-Setup-2.1.0.exe)**
 
 SHA256: `See CHECKSUM.txt`
 
